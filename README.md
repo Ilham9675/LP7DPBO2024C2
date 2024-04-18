@@ -25,4 +25,3 @@ Saya ilham akbar NIM [2201017] mengerjakan Latihan Praktikum 7 dalam mata kuliah
 
 ## dokumentasi
 
-https://github.com/Ilham9675/LP7DPBO2024C2/assets/117561201/309196c4-b22c-4df9-9c4d-9e89d4d7b61a
